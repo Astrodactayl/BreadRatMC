@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "cc.breadcat.utils.mixins",
+  "refmap": "mixins.rat.refmap.json",
+  "verbose": false,
+  "minVersion": "0.7.11",
+  "client": [
+    "smugle"
+  ]
+}
